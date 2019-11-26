@@ -7,7 +7,8 @@
   "author": "Exelord",
   "license": "MIT",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "release": "release-it"
   },
   "release-it": {
     "github": {
